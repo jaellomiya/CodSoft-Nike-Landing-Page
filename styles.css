@@ -51,6 +51,23 @@ li a {
   text-decoration: none;
 }
 
+.info {
+  position: relative;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
 .content {
-    text-align: left;
+  position: relative;
+  max-width: 600px;
+}
+
+h2 {
+  color: #ffffff;
+  font-size: 60px;
+  line-height: 55px;
+  font-weight: 500;
+  text-transform: uppercase;
 }
