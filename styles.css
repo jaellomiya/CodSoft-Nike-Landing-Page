@@ -138,6 +138,6 @@ span {
     max-width: 80px;
 }
 
-a:hover {
-    cursor: pointer;
+p {
+    font-size: 15px;
 }
